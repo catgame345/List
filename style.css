@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+    font-family: Arial;
+    color: #1abc9c;
+}
+.rem {
+    margin-left: 5px;
+    background-color: white;
+    border: none;
+    color: red;
+    cursor: pointer;
+}
